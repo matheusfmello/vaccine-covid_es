@@ -9,5 +9,17 @@ The functions script contains useful custom functions which helped tidying data 
 
 This project's purpose is studying and developing myself as a data scientist, so I may upgrade the scripts in a while.
 
+*** ------------------------------------------- Datasets -------------------------------------------------------------- ***
+
+Vaccines dataset - https://dados.gov.br/dataset/covid-19-vacinacao/resource/ef3bd0b8-b605-474b-9ae5-c97390c197a8
+
+IBGE data url - https://onedrive.live.com/?authkey=%21ABiV0mb1HeyuOxU&cid=124653557C0404EC&id=124653557C0404EC%2123017&parId=124653557C0404EC%2122899&action=locate
+
+
+
+*** ------------------------------------------------------------------------------------------------------------------- ***
+
+
+
 Reach me - 
 LinkedIn: https://www.linkedin.com/in/matheus-f-37a007116/
