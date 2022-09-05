@@ -1,4 +1,7 @@
-*.csv
+*raw.csv
+*s1.csv
+*s2.csv
+*_data.csv
 *.xlsx
 *.pyc
 __pycache__
