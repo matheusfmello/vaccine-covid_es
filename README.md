@@ -10,7 +10,7 @@ The functions script contains useful custom functions which helped tidying data 
 
 This project's purpose is studying and developing myself as a data scientist, so I may upgrade the scripts in a while.
 
-Datasets were not uploaded due to it's sizes. The source URLs were left below.
+Datasets provided in this repository are a tiny representation of it's original datasets. URLs leading to the data sources containing the full datasets are shown below.
 
 ## Datasets - 
 
